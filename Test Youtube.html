@@ -1,0 +1,21 @@
+<iframe id="test" width="853" height="480" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+function generatePassword() {
+    var length = 11,
+        charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+        retVal = "";
+    for (var i = 0, n = charset.length; i < length; ++i) {
+        retVal += charset.charAt(Math.floor(Math.random() * n));
+    }
+    return retVal;
+}
+
+var link=generatePassword();
+
+document.getElementById("test").src="https://www.youtube.com/embed/"+link;
+
+console.log($("body").html());
+
+</script>
