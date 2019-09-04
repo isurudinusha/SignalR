@@ -12,6 +12,9 @@ namespace SignalR_Test
         {
             Clients.Others.otherusers(message);
             Clients.Caller.caller("You: "+message);
+
+
+
         }
     }
 }

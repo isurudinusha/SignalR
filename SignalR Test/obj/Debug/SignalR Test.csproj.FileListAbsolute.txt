@@ -59,3 +59,64 @@ c:\users\dragon's alma\documents\visual studio 2013\Projects\SignalR Test\Signal
 c:\users\dragon's alma\documents\visual studio 2013\Projects\SignalR Test\SignalR Test\obj\Debug\SignalR Test.csprojResolveAssemblyReference.cache
 c:\users\dragon's alma\documents\visual studio 2013\Projects\SignalR Test\SignalR Test\obj\Debug\SignalR Test.dll
 c:\users\dragon's alma\documents\visual studio 2013\Projects\SignalR Test\SignalR Test\obj\Debug\SignalR Test.pdb
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\SignalR Test.dll.config
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\SignalR Test.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\SignalR Test.pdb
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Antlr3.Runtime.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\EntityFramework.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\EntityFramework.SqlServer.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Newtonsoft.Json.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Owin.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.Helpers.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.Mvc.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.Optimization.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.Razor.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.WebPages.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\WebGrease.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.Helpers.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.Mvc.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.Optimization.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.Razor.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.WebPages.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Antlr3.Runtime.pdb
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Newtonsoft.Json.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\EntityFramework.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\EntityFramework.SqlServer.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\obj\Debug\SignalR Test.csprojResolveAssemblyReference.cache
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\obj\Debug\SignalR Test.dll
+C:\Users\Dragon's Alma\Documents\Visual Studio 2013\Projects\SignalR Test\SignalR\SignalR Test\obj\Debug\SignalR Test.pdb

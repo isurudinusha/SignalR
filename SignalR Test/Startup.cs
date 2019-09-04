@@ -10,6 +10,8 @@ namespace SignalR_Test
         {
             app.MapSignalR();
             ConfigureAuth(app);
+
+
         }
     }
 }
